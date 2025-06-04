@@ -18,17 +18,17 @@ Ce repo contient la version compilée des widgets Experience Bilder.
 **arcgis-experience-builder**/client/dist-prod/widgets/exp-builder-widgets
 
 ## Étapes pour publier le widget avec GitHub
-Le widget doit être publié sur un serveur d'hébergement (comme une page web statique) pour l'utiliser dans ArcgGIS Entreprise. Dans notre cas, on utilise "Pages" de GitHub. On peut également utiiser un serveur IIS ou un autre serveur d'hébérgement de pages web statiques. 
+Le widget doit être publié sur un serveur d'hébergement (comme une page web statique) pour l'utiliser dans ArcgGIS Entreprise. Dans notre cas, on utilise "Pages" de GitHub. On peut également utiliser un serveur IIS ou un autre serveur d'hébergement de pages web statiques. 
 
 1. Envoyer le code compilé sur le repo GitHub
 2. Dans GitHub, aller sur "Settings", ensuite "Pages" et publier le code.
-3. Noter que ça prend jusqu'au 10 miniutes pour que la page soit activée
+3. Noter que ça peut prendre environ 10 minutes pour que la page soit activée
 
 ## Étapes pour publier le widget sur le portail ArcGIS Entreprise
 1. Sur le portail, choisir "Content" et ensuite "New item"
 2. Choisir "Application" et ensuite "Experience builder widget"
 3. Indiquer le chemin vers le fichier manifest.json sur le serveur d'hébergemetnt (GitHub Page)
-4. Choisir un nom pour le widget et compléter la dexription
+4. Choisir un nom pour le widget et compléter la décrispation
 5. Partager le widget dans les groupes ciblés du portail
 6. Le widget est maintenant disponible dans Experience Builder sur le portail ArcGIS Entreprise
 
