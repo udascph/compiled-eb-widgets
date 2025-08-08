@@ -1,0 +1,22 @@
+{
+  "name": "gantt-mtl-da",
+  "label": "Gantt DA",
+  "type": "widget",
+  "version": "2025.8.8",
+  "exbVersion": "1.14.0",
+  "author": "Georgi Gatin",
+  "description": "Gantt DA",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "defaultSize": {
+    "width": 250,
+    "height": 250
+  }
+}
