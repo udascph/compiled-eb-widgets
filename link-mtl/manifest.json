@@ -1,0 +1,22 @@
+{
+  "name": "link-mtl",
+  "label": "Lien Accès",
+  "type": "widget",
+  "version": "2025.8.22",
+  "exbVersion": "1.14.0",
+  "author": "Georgi Gatin",
+  "description": "Lien Accès",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 250
+  }
+}
